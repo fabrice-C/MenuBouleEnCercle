@@ -2,4 +2,6 @@
 
 Menu Burger central avec 8 rubriques en cercle
 
-Images en svg : html, css3, javascript, Illustrator, Bootstrap, Figma, Adobe XD et symbole "code"
+Burger menu centered with 8 elements in circle
+
+Images svg : html, css3, javascript, Illustrator, Bootstrap, Figma, Adobe XD, "code" symbol
